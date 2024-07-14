@@ -63,9 +63,9 @@ def value_okx():
     сколько_вывести = рандомное_число от amount_from до amount_to
     """
 
-    api_key     = '5461818c-a113-4bfc-ac29-0d75452e16d0'
-    api_secret  = '1EEBC8A3F3D49604119798A261B37B48'
-    password    = 'ac12Qwerty71!'
+    api_key     = ''
+    api_secret  = ''
+    password    = ''
 
     symbol      = 'ETH'
 
