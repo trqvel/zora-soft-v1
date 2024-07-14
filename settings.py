@@ -16,9 +16,9 @@ PROXY_CHANGE_LINK = 'https://mobileproxy.space/reload.html?proxy_key=a6214a60a69
 
 # --------------- TELEGRAM BOT ---------------
 TG_BOT_SEND = True # True / False. нужно ли отправлять результаты в тг бота
-TG_TOKEN    = '6909633360:AAFGsl2LlC6agsiNSVmDHXUv7oiliFQJHVA'
+TG_TOKEN    = ''
 TG_IDS      = [
-    6636748154,
+    ,
     # 12345,
 ]
 
